@@ -1,1 +1,3 @@
-# C109181103
+# Home page
+## Personal info
+### Uni Major
